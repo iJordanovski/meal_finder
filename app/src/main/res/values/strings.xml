@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food finder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meals">Meals</string>
+    <string name="search">Search</string>
+    <string name="watch_video"><u>Watch video</u></string>
+
+    <!--Error Msg -->
+    <string name="default_error_msg">Something went wrong,try again</string>
+
+    <string name="ingredient">- %s</string>
+</resources>
